@@ -2,7 +2,7 @@
 
 A fast-paced, 8-bit–style dungeon shooter built with **Python + PyOpenGL (GL/GLU/GLUT)**. Battle through 10 themed levels, switch between **first-person** and **third-person** cameras on the fly, collect perks, and chase a session-based Hall of Fame.
 
-> 🎓 **Academic-ready**: This README explains setup, controls, features, level/enemy rules, and the code structure to help evaluators navigate the project quickly.
+> 🎓 **Note**: This README explains setup, controls, features, level/enemy rules, and the code structure to help evaluators navigate the project quickly.
 
 ---
 
