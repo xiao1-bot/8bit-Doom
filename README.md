@@ -184,7 +184,7 @@ Key areas (all in `8bitdoom.py`):
 ---
 
 ## License
-Specify a license for your repository (e.g., MIT).
+We did not add any license yet!
 
 ---
 
